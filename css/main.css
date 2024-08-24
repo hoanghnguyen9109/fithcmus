@@ -763,7 +763,8 @@ button:focus {
    Showcase 
    ========================================================================== */
 #showcase {
-  padding-bottom: 375px; }
+   /* padding-bottom: 375px; */
+   }
   #showcase .right-position {
     position: relative; }
   #showcase .showcase-area {
@@ -1404,7 +1405,6 @@ button:focus {
    Footer section
    ========================================================================== */
 #footer-Content {
-  padding-top: 130px;
   background: #180e29; }
   #footer-Content .footer-logo img {
     padding-top: 70px; }
@@ -1413,7 +1413,7 @@ button:focus {
     box-shadow: none;
     background: #e5fff3; }
   #footer-Content .copyright {
-    margin-top: 125px;
+    margin-top: 50px;
     border-top: 1px solid #3c1f6e;
     padding-top: 30px;
     padding-bottom: 30px; }
